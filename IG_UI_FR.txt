@@ -1,0 +1,4 @@
+IGUI_FR = {
+	IGUI_perks_Piano = "Piano",
+	IGUI_perks_Miscellaneous = "Divers",
+}
